@@ -31,6 +31,5 @@ This app is built using the following technologies and tools:
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- Fetch API
 - icanhazdadjoke.com API
 - Git
