@@ -1,6 +1,7 @@
-# Welcome to the Dad Joke Generator app! This simple web application fetches random dad jokes from the icanhazdadjoke.com API and displays them on your screen with a bit of animation. Get ready to enjoy some cheesy humor!
+# Dad Jokes
+Welcome to the Dad Joke Generator app! This simple web application fetches random dad jokes from the icanhazdadjoke.com API and displays them on your screen with a bit of animation. Get ready to enjoy some cheesy humor!
 
-# Table of Contents
+## Table of Contents
 - Getting Started
 - How to Use
 - Technologies Used
@@ -13,18 +14,12 @@ To get this app up and running on your local machine, follow these simple steps:
 - <git clone https://github.com/Kachev032/dad-jokes >
 - Open the project directory in your preferred code editor.
 
-Launch a local development server or open the index.html file directly in your web browser.
-
-Enjoy a continuous stream of dad jokes!
-
 ## How to Use
 Using the Dad Joke Generator app is as easy as pie. Simply follow these steps:
 
 Open the app in your web browser.
 
 Click the "Generate Joke" button.
-
-Wait a moment while the app fetches a random dad joke for you.
 
 The joke will appear on the screen in a speech bubble with a cool animation.
 
